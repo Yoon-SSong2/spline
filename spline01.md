@@ -6,4 +6,4 @@
 # 파란색이 앞으로 와야 정면이됨
 # rgb - x축 y z red-x, green-y, blue-z
 ![image](https://github.com/Yoon-SSong2/spline/assets/163284009/00b974b4-0cbf-443d-9878-fd4581db773e)
-
+# ctrl + d  = 복사 붙여넣기
