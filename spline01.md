@@ -1,2 +1,2 @@
-# spline
-![Uploading image.png…]()
+# Alt+마우스 이동 = 3d를 돌릴수있다.
+
