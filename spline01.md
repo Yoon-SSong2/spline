@@ -11,11 +11,11 @@
 # 
 ![image](https://github.com/Yoon-SSong2/spline/assets/163284009/7bb9d6b8-de37-4c3e-9a11-ffabb4c7316f)
 
-#조절선을 선택할떄 주위를 전체 선택하고자 하면 조절선 하나를 선택하고
+# 조절선을 선택할떄 주위를 전체 선택하고자 하면 조절선 하나를 선택하고
 ![image](https://github.com/Yoon-SSong2/spline/assets/163284009/f8041501-7788-4890-ade8-e733f9f59bef)
 
 
-#그조절선을 더블클릭하면 전체 조절선이 선택된다
+# 그조절선을 더블클릭하면 전체 조절선이 선택된다
 
 ![image](https://github.com/Yoon-SSong2/spline/assets/163284009/b789d003-975e-466d-850c-5d5bf2b8baef)
 
